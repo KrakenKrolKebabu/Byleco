@@ -22,6 +22,6 @@ int main() {
             cin >> numer;
         }
     }
-
+	cout << "kotek";
     return 0;
 }
